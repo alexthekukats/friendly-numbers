@@ -1,0 +1,11 @@
+F:\Users\Alex\Documents\C# Progik\Barátságos számok\Barátságos számok\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\Barátságos számok\Barátságos számok\bin\Debug\Barátságos számok.exe
+F:\Users\Alex\Documents\C# Progik\Barátságos számok\Barátságos számok\bin\Debug\Barátságos számok.pdb
+F:\Users\Alex\Documents\C# Progik\Barátságos számok\Barátságos számok\obj\Debug\Barátságos számok.exe
+F:\Users\Alex\Documents\C# Progik\Barátságos számok\Barátságos számok\obj\Debug\Barátságos számok.pdb
+D:\Mentes\Alex_old\C# Progik\Barátságos számok\Barátságos számok\bin\Debug\Barátságos számok.exe
+D:\Mentes\Alex_old\C# Progik\Barátságos számok\Barátságos számok\bin\Debug\Barátságos számok.pdb
+D:\Mentes\Alex_old\C# Progik\Barátságos számok\Barátságos számok\obj\Debug\Barátságos számok.csprojResolveAssemblyReference.cache
+D:\Mentes\Alex_old\C# Progik\Barátságos számok\Barátságos számok\obj\Debug\Barátságos számok.csproj.CoreCompileInputs.cache
+D:\Mentes\Alex_old\C# Progik\Barátságos számok\Barátságos számok\obj\Debug\Barátságos számok.exe
+D:\Mentes\Alex_old\C# Progik\Barátságos számok\Barátságos számok\obj\Debug\Barátságos számok.pdb
